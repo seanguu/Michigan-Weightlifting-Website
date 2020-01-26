@@ -11,7 +11,7 @@ h1 {
     margin-left: 20px;
   }
 
-  a {
+a {
     text-decoration: none;
     color:#d4af37;
 }
@@ -20,6 +20,12 @@ a:hover {
     text-decoration: underline;
 }
 
+div.teamphoto {
+    margin:0;
+    padding-bottom:2em;
+    padding-right:2em;
+    overflow: auto
+}
 
 nav ul, footer ul {
     background-color: #003366;
@@ -49,4 +55,20 @@ ul.posts {
 div.content {
     background-color: #003366;
     margin: 10px auto 20px;
+}
+
+div.left {
+    float:left;
+    width:150px;
+    margin:0;
+    padding-bottom:2em;
+    padding-right:1em;
+    overflow: auto
+}
+
+div.right {
+    margin-left:150px;
+    padding-left:1em;
+    padding-top:1px;
+    padding-bottom:2em;
 }
