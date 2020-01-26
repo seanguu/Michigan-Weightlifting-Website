@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+    max-width: 550px;
+    margin:0 auto; /* centering */
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+nav ul, footer ul {
+    font-size: 0.8em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+}
+
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts {
+    margin: 20px auto 40px;
+    font-size: 1.25em;
+}
