@@ -39,8 +39,8 @@ a:hover {
 
 div.teamphoto {
     margin:0;
-    padding-bottom:2em;
-    padding-right:2em;
+    max-width: 50%;
+    min-width: 700px;
     overflow: auto
 }
 
