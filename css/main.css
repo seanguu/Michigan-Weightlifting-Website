@@ -73,6 +73,8 @@ ul.posts {
 div.content {
     background-color: #003366;
     margin: 10px auto 20px;
+    border:1px solid#d4af37;
+    padding: 10px;
 }
 
 table {
