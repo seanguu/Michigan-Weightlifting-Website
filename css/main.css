@@ -1,3 +1,4 @@
+/*style for the website background*/
 body {
     background: "../assets/images/loginbackground.jpg";
     max-width: 50%;
@@ -5,6 +6,7 @@ body {
     margin:0 auto; /* centering */
 }
 
+/*style for the "U of M Weightlifting" banner*/
 h1 {
     background-color: #003366;
     color:#d4af37;
@@ -16,27 +18,32 @@ h1 {
     border-radius: 25px;
 }
 
+/*style for standard first subheader*/
 h2 {
     color:#d4af37; 
 }
 
+/*style for standard second subheader*/
 h3 {
     color:#d4af37; 
 }
 
+/*style for standard link*/
 a {
     text-decoration: none;
     color:#d4af37;
-}
-
-p {
-    color:#d4af37;  
 }
 
 a:hover {
     text-decoration: underline;
 }
 
+/*style for standard paragraphs*/
+p {
+    color:#d4af37;  
+}
+
+/*style for team photo on main page*/
 div.teamphoto {
     margin:0;
     max-width: 50%;
@@ -44,6 +51,7 @@ div.teamphoto {
     overflow: auto
 }
 
+/*style for navigation tabs*/
 nav ul, footer ul {
     background-color: #003366;
     color:#d4af37;
@@ -60,16 +68,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
-
-ul.posts {
-    margin: 20px auto 40px;
-    font-size: 1.25em;
-}
-
+/*standard page subdivision*/
 div.content {
     background-color: #003366;
     margin: 10px auto 20px;
@@ -77,6 +76,7 @@ div.content {
     padding: 10px;
 }
 
+/*style for the table used on the roster page*/
 table {
     border-collapse: collapse;
     width: 100%;
@@ -97,6 +97,7 @@ th {
     color: #d4af37;
 }
 
+/*style for subdivisions within a content tag*/
 div.left {
     float:left;
     width:150px;
@@ -113,6 +114,7 @@ div.right {
     padding-bottom:2em;
 }
 
+/*style for gallery page*/
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
