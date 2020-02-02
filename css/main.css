@@ -137,6 +137,14 @@ div.gallery {
   
   /*style for photo slideshow
   /* Position the image container (needed to position the left and right arrows) */
+  img {
+    vertical-align: middle;
+  }
+
+  .thumbnail {
+      height: 80px;
+  }
+    
   .container {
     position: relative;
     border:1px solid#d4af37;
@@ -161,7 +169,7 @@ div.gallery {
     width: auto;
     padding: 16px;
     margin-top: -50px;
-    color: white;
+    color: #d4af37;
     font-weight: bold;
     font-size: 20px;
     border-radius: 0 3px 3px 0;
@@ -190,14 +198,6 @@ div.gallery {
     top: 0;
   }
   
-  /* Container for image text */
-  .caption-container {
-    text-align: center;
-    background-color: #222;
-    padding: 2px 16px;
-    color: white;
-  }
-  
   .row:after {
     content: "";
     display: table;
@@ -218,4 +218,21 @@ div.gallery {
   .active,
   .demo:hover {
     opacity: 1;
+  }
+
+  .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
   }
