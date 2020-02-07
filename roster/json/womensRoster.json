@@ -1,0 +1,112 @@
+womensRoster = [
+        {
+            "imageLink": "assets/images/celia.jpeg",
+            "firstName": "Celia",
+            "lastName": "Gold",
+            "major": "International Studies",
+            "height": "5'4''",
+            "weightClass": "71KG",
+            "hometown": "Newtown, Connecticut"
+
+        },
+        {
+            "imageLink": "assets/images/lauren.jpeg",
+            "firstName": "Lauren",
+            "lastName": "Hart",
+            "major": "Movement Science",
+            "height": "5'5''",
+            "weightClass": "76KG",
+            "hometown": "Portage, Michigan"
+
+        },
+        {
+            "imageLink": "assets/images/alanna.jpeg",
+            "firstName": "Alanna",
+            "lastName": "Hill",
+            "major": "Computer Science",
+            "height": "5'6''",
+            "weightClass": "76KG",
+            "hometown": "Leesburg, Virginia"
+
+        },
+        {
+            "imageLink": "assets/images/xia.jpeg",
+            "firstName": "Xia",
+            "lastName": "Huyck",
+            "major": "Biospychology, Cognition, and Neuroscience",
+            "height": "5'6''",
+            "weightClass": "64KG",
+            "hometown": "Traverse City, Michigan"
+
+        },
+        {
+            "imageLink": "assets/images/samantha.jpeg",
+            "firstName": "Samantha",
+            "lastName": "Luckham",
+            "major": "International Studies and Environment",
+            "height": "5'3''",
+            "weightClass": "49KG",
+            "hometown": "Waterford, Michigan"
+
+        },
+        {
+            "imageLink": "assets/images/brittany.jpeg",
+            "firstName": "Brittany",
+            "lastName": "McKenzie",
+            "major": "Nutritional Sciences",
+            "height": "5'11''",
+            "weightClass": "71KG",
+            "hometown": "Clinton Twp, Michigan"
+
+        },
+        {
+            "imageLink": "assets/images/emily.jpeg",
+            "firstName": "Emily",
+            "lastName": "Prostko",
+            "major": "Business",
+            "height": "5'4''",
+            "weightClass": "64KG",
+            "hometown": "Lake Orion, Michigan"
+
+        },
+        {
+            "imageLink": "assets/images/leah.jpeg",
+            "firstName": "Leah",
+            "lastName": "Smith",
+            "major": "Spanish",
+            "height": "5'4''",
+            "weightClass": "71KG",
+            "hometown": "Portage, Michigan"
+
+        },
+        {
+            "imageLink": "assets/images/hannah.jpeg",
+            "firstName": "Hannah",
+            "lastName": "Swirple",
+            "major": "Movement Science",
+            "height": "5'5''",
+            "weightClass": "76KG",
+            "hometown": "Tecumseh, Michigan"
+
+        },
+        {
+            "imageLink": "assets/images/julia.jpeg",
+            "firstName": "Julia",
+            "lastName": "Woelmer",
+            "major": "Undecided",
+            "height": "6'4''",
+            "weightClass": "64KG",
+            "hometown": "Milan, Michigan"
+
+        },
+        {
+            "imageLink": "assets/images/katy.jpeg",
+            "firstName": "Katy",
+            "lastName": "Wolff",
+            "major": "Electrical Engineering",
+            "height": "5'7''",
+            "weightClass": "71KG",
+            "hometown": "Sterling Heights, Michigan"
+
+        }
+    ]
