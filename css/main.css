@@ -1,6 +1,6 @@
 /*style for the website background*/
 body {
-    background: "../assets/images/loginbackground.jpg";
+    background-color: #D3D3D3;
     max-width: 50%;
     min-width: 700px;
     margin:0 auto; /* centering */
@@ -276,3 +276,20 @@ div.gallery {
 .athleteInfo {
   color: grey;
 }
+
+.leftDiv
+			{
+				background-color: #003366;
+				color: #000;
+				height: 250px;
+				width: 25%;
+				float: left;
+			}
+			.rightDiv
+			{
+				background-color: #003366;
+				color: #000;
+				height: 250px;
+				width: 75%;
+				float: right;
+			}
