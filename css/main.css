@@ -284,12 +284,13 @@ div.gallery {
 				height: 250px;
 				width: 25%;
 				float: left;
-			}
-			.rightDiv
+}
+
+.rightDiv
 			{
 				background-color: #003366;
 				color: #000;
 				height: 250px;
 				width: 75%;
 				float: right;
-			}
+}
