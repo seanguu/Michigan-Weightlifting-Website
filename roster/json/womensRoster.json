@@ -15,7 +15,7 @@ womensRoster = [
             "lastName": "Hart",
             "major": "Movement Science",
             "height": "5'5''",
-            "weightClass": "76KG",
+            "weightClass": "71KG",
             "hometown": "Portage, Michigan"
 
         },
@@ -94,7 +94,7 @@ womensRoster = [
             "firstName": "Julia",
             "lastName": "Woelmer",
             "major": "Undecided",
-            "height": "6'4''",
+            "height": "5'6''",
             "weightClass": "64KG",
             "hometown": "Milan, Michigan"
 
