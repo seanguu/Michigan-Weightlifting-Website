@@ -1,6 +1,10 @@
 /*style for the website background*/
 body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-color: #D3D3D3;
+    background-size: cover;
     max-width: 50%;
     min-width: 700px;
     margin:0 auto; /* centering */
