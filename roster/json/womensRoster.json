@@ -50,6 +50,16 @@ womensRoster = [
             
         },
         {
+            "imageLink": "assets/images/aafaf.jpeg",
+            "firstName": "Aafaf",
+            "lastName": "Moustafa",
+            "major": "Undeclared",
+            "height": "5'2''",
+            "weightClass": "64KG",
+            "hometown": "Ann Arbor, MI"
+            
+        },
+        {
             "imageLink": "assets/images/lauren.jpeg",
             "firstName": "Lauren",
             "lastName": "Oskuie",
