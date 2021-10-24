@@ -1,63 +1,30 @@
 mensRoster = [
         {
-            "imageLink": "assets/images/cole.jpeg",
-            "firstName": "Cole",
-            "lastName": "Appoloni",
-            "major": "Microbiology",
-            "height": "5'6''",
-            "weightClass": "61KG",
-            "hometown": "Three Rivers, Michigan"
-
-        },
-        {
             "imageLink": "assets/images/matthew.jpeg",
             "firstName": "Mathew",
             "lastName": "Benson",
-            "major": "Civil Engineering",
-            "height": "5'11''",
-            "weightClass": "81KG",
-            "hometown": "Columbus, Ohio"
-
-        },
-        {
-            "imageLink": "assets/images/jeremiah.jpeg",
-            "firstName": "Jeremiah",
-            "lastName": "DeKam",
-            "major": "Computer Science and Philosophy",
+            "major": "Civil Engineering and Computer Science",
             "height": "5'11''",
             "weightClass": "89KG",
-            "hometown": "Fennville, Michigan"
-
+            "hometown": "Columbus, OH"
+        },
+        {
+            "imageLink": "assets/images/tyler.jpeg",
+            "firstName": "Taylor",
+            "lastName": "Davis",
+            "major": "Political Science and Psychology",
+            "height": "5'10''",
+            "weightClass": "96KG",
+            "hometown": "Boise, ID"
         },
         {
             "imageLink": "assets/images/johnathon.jpeg",
-            "firstName": "Jonathon",
+            "firstName": "Johnathon",
             "lastName": "Dong",
-            "major": "Engineering Physics",
-            "height": "5'9''",
+            "major": "Engineering Physics/Computer Science",
+            "height": "5'8''",
             "weightClass": "73KG",
-            "hometown": "Clemson, South Carolina"
-
-        },
-        {
-            "imageLink": "assets/images/sean.jpeg",
-            "firstName": "Sean",
-            "lastName": "Gu",
-            "major": "Computer Science",
-            "height": "5'11''",
-            "weightClass": "73KG",
-            "hometown": "Troy, Michigan"
-
-        },
-        {
-            "imageLink": "assets/images/junjie.jpeg",
-            "firstName": "Junjie",
-            "lastName": "Guo",
-            "major": "Nuclear Engineering",
-            "height": "5'11''",
-            "weightClass": "81KG",
-            "hometown": "Beijing, China"
-
+            "hometown": "Clemson, SC"
         },
         {
             "imageLink": "assets/images/sahil.jpeg",
@@ -66,38 +33,52 @@ mensRoster = [
             "major": "Computer Science",
             "height": "5'2''",
             "weightClass": "61KG",
-            "hometown": "Saratoga, California"
-
+            "hometown": "Saratoga, CA"
         },
         {
             "imageLink": "assets/images/griffin.jpeg",
             "firstName": "Griffin",
             "lastName": "Glick",
-            "major": "PEE + Data Science",
-            "height": "5'11''",
+            "major": "History",
+            "height": "6'0''",
+            "weightClass": "96KG",
+            "hometown": "Royal Oak, MI"
+        },
+        {
+            "imageLink": "assets/images/thimmaiah.jpeg",
+            "firstName": "Thimmaiah",
+            "lastName": "Honaganahalli",
+            "major": "History",
+            "height": "5'10''",
             "weightClass": "81KG",
-            "hometown": "Royal Oak, Michigan"
-
+            "hometown": "n/a"
         },
         {
-            "imageLink": "assets/images/ethan.jpeg",
-            "firstName": "Ethan",
-            "lastName": "Harris",
-            "major": "Chemical Engineering",
+            "imageLink": "assets/images/zach.jpeg",
+            "firstName": "Zachary",
+            "lastName": "Kirsner",
+            "major": "Information/Computer Science",
+            "height": "5'10''",
+            "weightClass": "81KG",
+            "hometown": "Richmond, VA"
+        },
+        {
+            "imageLink": "assets/images/stephen.jpeg",
+            "firstName": "Stephen",
+            "lastName": "Lee",
+            "major": "Mechanical Engineering",
+            "height": "5'10''",
+            "weightClass": "89KG",
+            "hometown": "Palo Alto, CA"
+        },
+        {
+            "imageLink": "assets/images/andrew.jpeg",
+            "firstName": "Andrew",
+            "lastName": "Philips",
+            "major": "Movement science",
             "height": "5'9''",
-            "weightClass": "96KG",
-            "hometown": "Taylor, Michigan"
-
-        },
-        {
-            "imageLink": "assets/images/hinton.jpeg",
-            "firstName": "Hinton",
-            "lastName": "Rago",
-            "major": "Computer Science and Philosophy",
-            "height": "6'1''",
-            "weightClass": "96KG",
-            "hometown": "Tampa, Florida"
-
+            "weightClass": "89KG",
+            "hometown": "Alpena, MI"
         },
         {
             "imageLink": "assets/images/jake.jpeg",
@@ -106,17 +87,24 @@ mensRoster = [
             "major": "Mechanical Engineering",
             "height": "5'8''",
             "weightClass": "81KG",
-            "hometown": "Grosse Pointe, Michigan"
-
+            "hometown": "Grosse Pointe, MI"
         },
         {
-            "imageLink": "assets/images/kyle.jpeg",
-            "firstName": "Kyle",
-            "lastName": "Vaughn",
-            "major": "Nuclear Engineering",
-            "height": "5'10''",
-            "weightClass": "73KG",
-            "hometown": "Jacksonville, Florida"
-
+            "imageLink": "assets/images/ryan.jpeg",
+            "firstName": "Ryan",
+            "lastName": "Shaw",
+            "major": "Computer Science, minor in Electrical Engineering ",
+            "height": "5'8''",
+            "weightClass": "81KG",
+            "hometown": "Los Gatos, CA"
+        },
+        {
+            "imageLink": "assets/images/austin.jpeg",
+            "firstName": "Austin",
+            "lastName": "Wahle",
+            "major": "Computer Science",
+            "height": "6'1''",
+            "weightClass": "89KG",
+            "hometown": "Duxbury, MA"
         }
     ]
