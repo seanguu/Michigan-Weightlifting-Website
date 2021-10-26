@@ -1,7 +1,7 @@
 mensRoster = [
         {
             "imageLink": "assets/images/matthew.jpeg",
-            "firstName": "Mathew",
+            "firstName": "Matthew",
             "lastName": "Benson",
             "major": "Civil Engineering and Computer Science",
             "height": "5'11''",
@@ -10,7 +10,7 @@ mensRoster = [
         },
         {
             "imageLink": "assets/images/tyler.jpeg",
-            "firstName": "Taylor",
+            "firstName": "Tyler",
             "lastName": "Davis",
             "major": "Political Science and Psychology",
             "height": "5'10''",
@@ -43,15 +43,6 @@ mensRoster = [
             "height": "6'0''",
             "weightClass": "96KG",
             "hometown": "Royal Oak, MI"
-        },
-        {
-            "imageLink": "assets/images/thimmaiah.jpeg",
-            "firstName": "Thimmaiah",
-            "lastName": "Honaganahalli",
-            "major": "History",
-            "height": "5'10''",
-            "weightClass": "81KG",
-            "hometown": "n/a"
         },
         {
             "imageLink": "assets/images/zach.jpeg",
@@ -90,7 +81,7 @@ mensRoster = [
             "hometown": "Grosse Pointe, MI"
         },
         {
-            "imageLink": "assets/images/ryan.jpeg",
+            "imageLink": "assets/images/ryanS.jpeg",
             "firstName": "Ryan",
             "lastName": "Shaw",
             "major": "Computer Science, minor in Electrical Engineering ",
