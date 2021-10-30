@@ -18,8 +18,8 @@ mensRoster = [
             "hometown": "Boise, ID"
         },
         {
-            "imageLink": "assets/images/johnathon.jpeg",
-            "firstName": "Jonathon",
+            "imageLink": "assets/images/jonathan.jpeg",
+            "firstName": "Jonathan",
             "lastName": "Dong",
             "major": "Engineering Physics/Computer Science",
             "height": "5'8''",
