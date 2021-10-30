@@ -19,7 +19,7 @@ mensRoster = [
         },
         {
             "imageLink": "assets/images/johnathon.jpeg",
-            "firstName": "Johnathon",
+            "firstName": "Jonathon",
             "lastName": "Dong",
             "major": "Engineering Physics/Computer Science",
             "height": "5'8''",
@@ -65,7 +65,7 @@ mensRoster = [
         {
             "imageLink": "assets/images/andrew.jpeg",
             "firstName": "Andrew",
-            "lastName": "Philips",
+            "lastName": "Phillips",
             "major": "Movement science",
             "height": "5'9''",
             "weightClass": "89KG",
