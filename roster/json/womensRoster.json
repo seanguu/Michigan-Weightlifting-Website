@@ -1,92 +1,56 @@
 womensRoster = [
-        {
-            "imageLink": "assets/images/ryanC.jpeg",
-            "firstName": "Ryan",
-            "lastName": "Chekan",
-            "major": "Mathematical Science",
-            "height": "5'1''",
-            "weightClass": "59KG",
-            "hometown": "Birmingham, MI"
-            
-        },
-        {
-            "imageLink": "assets/images/clay.jpeg",
-            "firstName": "Clay",
-            "lastName": "Conley",
-            "major": "Ethnomusicology PhD",
-            "height": "5'7''",
-            "weightClass": "81KG",
-            "hometown": "New Canaan, CT "
-            
-        },
-        {
-            "imageLink": "assets/images/sierra.jpeg",
-            "firstName": "Sierra",
-            "lastName": "Doss",
-            "major": "Asian Studies and Translation Studies",
-            "height": "5'1''",
-            "weightClass": "55KG",
-            "hometown": "Jackson, MI"
-            
-        },
-        {
-            "imageLink": "assets/images/xia.jpeg",
-            "firstName": "Xia",
-            "lastName": "Huyck",
-            "major": "Biospychology, Cognition, and Neuroscience",
-            "height": "5'6''",
-            "weightClass": "64KG",
-            "hometown": "Traverse City, MI"
-
-        },
-        {
-            "imageLink": "assets/images/ava.jpeg",
-            "firstName": "Ava",
-            "lastName": "Millunchick",
-            "major": "Earth and Environmental Science",
-            "height": "5'2''",
-            "weightClass": "64KG",
-            "hometown": "Ann Arbor, MI"
-            
-        },
-        {
-            "imageLink": "assets/images/aafaf.jpeg",
-            "firstName": "Aafaf",
-            "lastName": "Moustafa",
-            "major": "Undeclared",
-            "height": "5'2''",
-            "weightClass": "64KG",
-            "hometown": "Ann Arbor, MI"
-            
-        },
-        {
-            "imageLink": "assets/images/lauren.jpeg",
-            "firstName": "Lauren",
-            "lastName": "Oskuie",
-            "major": "Business and FTVM",
-            "height": "5'6''",
-            "weightClass": "76KG",
-            "hometown": "Vienna, VA"
-            
-        },
-        {
-            "imageLink": "assets/images/emily.jpeg",
-            "firstName": "Emily",
-            "lastName": "Prostko",
-            "major": "Business",
-            "height": "5'4''",
-            "weightClass": "64KG",
-            "hometown": "Lake Orion, MI"
-
-        },
-        {
-            "imageLink": "assets/images/julia.jpeg",
-            "firstName": "Julia",
-            "lastName": "Woelmer",
-            "major": "Computer Science",
-            "height": "5'6''",
-            "weightClass": "64KG",
-            "hometown": "Milan, MI"
-
-        }
-    ]
+    {
+        "imageLink": "assets/images/ryanC.jpeg",
+        "firstName": "Ryan",
+        "lastName": "Chekan",
+        "major": "Mathematical Science",
+        "height": "5'1''",
+        "weightClass": "59KG",
+        "hometown": "Birmingham, MI"
+    },
+    {
+        "imageLink": "assets/images/clay.jpeg",
+        "firstName": "Clay",
+        "lastName": "Conley",
+        "major": "Ethnomusicology PhD",
+        "height": "5'7''",
+        "weightClass": "81KG",
+        "hometown": "New Canaan, CT "
+    },
+    {
+        "imageLink": "assets/images/sierra.jpeg",
+        "firstName": "Sierra",
+        "lastName": "Doss",
+        "major": "Asian Studies and Translation Studies",
+        "height": "5'1''",
+        "weightClass": "55KG",
+        "hometown": "Jackson, MI"
+    },
+    {
+        "imageLink": "assets/images/ava.jpeg",
+        "firstName": "Ava",
+        "lastName": "Millunchick",
+        "major": "Earth and Environmental Science",
+        "height": "5'2''",
+        "weightClass": "64KG",
+        "hometown": "Ann Arbor, MI"
+    },
+    {
+        "imageLink": "assets/images/emily.jpeg",
+        "firstName": "Emily",
+        "lastName": "Prostko",
+        "major": "Business",
+        "height": "5'4''",
+        "weightClass": "64KG",
+        "hometown": "Lake Orion, MI"
+    },
+    {
+        "imageLink": "assets/images/julia.jpeg",
+        "firstName": "Julia",
+        "lastName": "Woelmer",
+        "major": "Computer Science",
+        "height": "5'6''",
+        "weightClass": "64KG",
+        "hometown": "Milan, MI"
+    }
+]
