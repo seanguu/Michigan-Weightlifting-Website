@@ -1,101 +1,92 @@
 mensRoster = [
-        {
-            "imageLink": "assets/images/matthew.jpeg",
-            "firstName": "Matthew",
-            "lastName": "Benson",
-            "major": "Civil Engineering and Computer Science",
-            "height": "5'11''",
-            "weightClass": "89KG",
-            "hometown": "Columbus, OH"
-        },
-        {
-            "imageLink": "assets/images/tyler.jpeg",
-            "firstName": "Tyler",
-            "lastName": "Davis",
-            "major": "Political Science and Psychology",
-            "height": "5'10''",
-            "weightClass": "96KG",
-            "hometown": "Boise, ID"
-        },
-        {
-            "imageLink": "assets/images/jonathan.jpeg",
-            "firstName": "Jonathan",
-            "lastName": "Dong",
-            "major": "Engineering Physics/Computer Science",
-            "height": "5'8''",
-            "weightClass": "73KG",
-            "hometown": "Clemson, SC"
-        },
-        {
-            "imageLink": "assets/images/sahil.jpeg",
-            "firstName": "Sahil",
-            "lastName": "Gupta",
-            "major": "Computer Science",
-            "height": "5'2''",
-            "weightClass": "61KG",
-            "hometown": "Saratoga, CA"
-        },
-        {
-            "imageLink": "assets/images/griffin.jpeg",
-            "firstName": "Griffin",
-            "lastName": "Glick",
-            "major": "History",
-            "height": "6'0''",
-            "weightClass": "96KG",
-            "hometown": "Royal Oak, MI"
-        },
-        {
-            "imageLink": "assets/images/zach.jpeg",
-            "firstName": "Zachary",
-            "lastName": "Kirsner",
-            "major": "Information/Computer Science",
-            "height": "5'10''",
-            "weightClass": "81KG",
-            "hometown": "Richmond, VA"
-        },
-        {
-            "imageLink": "assets/images/stephen.jpeg",
-            "firstName": "Stephen",
-            "lastName": "Lee",
-            "major": "Mechanical Engineering",
-            "height": "5'10''",
-            "weightClass": "89KG",
-            "hometown": "Palo Alto, CA"
-        },
-        {
-            "imageLink": "assets/images/andrew.jpeg",
-            "firstName": "Andrew",
-            "lastName": "Phillips",
-            "major": "Movement science",
-            "height": "5'9''",
-            "weightClass": "89KG",
-            "hometown": "Alpena, MI"
-        },
-        {
-            "imageLink": "assets/images/jake.jpeg",
-            "firstName": "Jake",
-            "lastName": "Reid",
-            "major": "Mechanical Engineering",
-            "height": "5'8''",
-            "weightClass": "81KG",
-            "hometown": "Grosse Pointe, MI"
-        },
-        {
-            "imageLink": "assets/images/ryanS.jpeg",
-            "firstName": "Ryan",
-            "lastName": "Shaw",
-            "major": "Computer Science, minor in Electrical Engineering ",
-            "height": "5'8''",
-            "weightClass": "81KG",
-            "hometown": "Los Gatos, CA"
-        },
-        {
-            "imageLink": "assets/images/austin.jpeg",
-            "firstName": "Austin",
-            "lastName": "Wahle",
-            "major": "Computer Science",
-            "height": "6'1''",
-            "weightClass": "89KG",
-            "hometown": "Duxbury, MA"
-        }
-    ]
+    {
+        "imageLink": "assets/images/matthew.jpeg",
+        "firstName": "Matthew",
+        "lastName": "Benson",
+        "major": "Civil Engineering and Computer Science",
+        "height": "5'11''",
+        "weightClass": "89KG",
+        "hometown": "Columbus, OH"
+    },
+    {
+        "imageLink": "assets/images/tyler.jpeg",
+        "firstName": "Tyler",
+        "lastName": "Davis",
+        "major": "Political Science and Psychology",
+        "height": "5'10''",
+        "weightClass": "96KG",
+        "hometown": "Boise, ID"
+    },
+    {
+        "imageLink": "assets/images/jonathan.jpeg",
+        "firstName": "Jonathan",
+        "lastName": "Dong",
+        "major": "Engineering Physics/Computer Science",
+        "height": "5'8''",
+        "weightClass": "73KG",
+        "hometown": "Clemson, SC"
+    },
+    {
+        "imageLink": "assets/images/sahil.jpeg",
+        "firstName": "Sahil",
+        "lastName": "Gupta",
+        "major": "Computer Science",
+        "height": "5'2''",
+        "weightClass": "61KG",
+        "hometown": "Saratoga, CA"
+    },
+    {
+        "imageLink": "assets/images/griffin.jpeg",
+        "firstName": "Griffin",
+        "lastName": "Glick",
+        "major": "History",
+        "height": "6'0''",
+        "weightClass": "96KG",
+        "hometown": "Royal Oak, MI"
+    },
+    {
+        "imageLink": "assets/images/zach.jpeg",
+        "firstName": "Zachary",
+        "lastName": "Kirsner",
+        "major": "Information/Computer Science",
+        "height": "5'10''",
+        "weightClass": "81KG",
+        "hometown": "Richmond, VA"
+    },
+    {
+        "imageLink": "assets/images/stephen.jpeg",
+        "firstName": "Stephen",
+        "lastName": "Lee",
+        "major": "Mechanical Engineering",
+        "height": "5'10''",
+        "weightClass": "89KG",
+        "hometown": "Palo Alto, CA"
+    },
+    {
+        "imageLink": "assets/images/jake.jpeg",
+        "firstName": "Jake",
+        "lastName": "Reid",
+        "major": "Mechanical Engineering",
+        "height": "5'8''",
+        "weightClass": "81KG",
+        "hometown": "Grosse Pointe, MI"
+    },
+    {
+        "imageLink": "assets/images/ryanS.jpeg",
+        "firstName": "Ryan",
+        "lastName": "Shaw",
+        "major": "Computer Science, minor in Electrical Engineering ",
+        "height": "5'8''",
+        "weightClass": "81KG",
+        "hometown": "Los Gatos, CA"
+    },
+    {
+        "imageLink": "assets/images/austin.jpeg",
+        "firstName": "Austin",
+        "lastName": "Wahle",
+        "major": "Computer Science",
+        "height": "6'1''",
+        "weightClass": "89KG",
+        "hometown": "Duxbury, MA"
+    }
+]
